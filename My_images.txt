@@ -1,0 +1,1 @@
+ xilinx/vitis-ai-cpu:1.4.1-978
